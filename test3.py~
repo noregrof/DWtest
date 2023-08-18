@@ -1,0 +1,5 @@
+import networkx as nx
+from collections import defaultdict
+from dwave.system import DWaveSampler, EmbeddingComposite
+
+S = { 'e1':(2,3,1)}
